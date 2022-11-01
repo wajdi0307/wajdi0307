@@ -93,18 +93,6 @@
 ## 📄📜 Stats
 
 
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=monambengouta&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=monambengouta"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monambengouta&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
-</table>
-
 
 
 </br>
