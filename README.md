@@ -12,7 +12,7 @@
 
 
 - 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📫 How to reach me ... wajdi.bel.haj.yahya@gmail.com.
+- 📫 How to reach me ... wajdibenhajyahya@gmail.com .
 
 <hr>
 </br>
