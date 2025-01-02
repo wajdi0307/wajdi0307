@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Wajdi+Ben+Haj+Yahya;Web+Developer...;Search+For+Internship..."/>
 
- <p>- <i>My name is Wajdi Ben Haj Yahya, I'm 25 years old An esprit graduate student and a aspiring software developer with good problem-solving skills</i></p>
+<p>- <i>My name is Wajdi Ben Haj Yahya. I'm a 27-year-old junior software developer with a strong focus on .NET Core and Angular, complemented by experience in Spring Boot, Node.js, and React.js. An Esprit graduate with a passion for building robust and scalable solutions, I specialize in microservices architecture and clean architecture. Since October 2023, I have been contributing to projects that digitize recruitment processes, payroll, and accounting systems. I enjoy solving complex problems and continuously expanding my skill set.</i></p>
 
 
 
